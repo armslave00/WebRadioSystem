@@ -1,0 +1,1362 @@
+名字: デレラジA　生放送
+Link: http://hibiki-radio.jp/description/imas_cg
+回数: 次回の生放送は、9月28日 21時30分！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/0e826dcba0f450807ac1f7f095ca059aa92bb7c0.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/861fc2612fc541f8eec34b19f2af42c4f5ae5187.jpg
+ID  : imas_cg_live
+Coun: 1406
+Pmt1: 1
+Pmt2: 0
+protocol: 
+domain: 
+dir: 
+channel: 
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/861fc2612fc541f8eec34b19f2af42c4f5ae5187.jpg
+description: この番組は、TVアニメ　アイドルマスターシンデレラガールズを応援し、
+みなさんにその魅力を伝えていく番組です。
+プロデューサーの皆さん、
+一緒にシンデレラガールズを盛り上げていきましょう！
+
+響 - HiBiKi Radio Station –では
+生放送後のおまけコーナーを追加して翌火曜日より1週間配信！
+こちらも是非、お聴き下さいね！
+
+
+
+cast: 
+
+名字: Charlotteラジオ ～友利奈緒の生徒会活動日誌～ 生放送
+Link: http://hibiki-radio.jp/description/charlotte
+回数: 次回の生放送は、9月28日 22:30～
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/9f6ade37d5ed5db8146776e0500546f4728fc748.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/85da58834e7119b4b0068fe897fefa927e853640.jpg
+ID  : charlotte_live
+Coun: 1746
+Pmt1: 1
+Pmt2: 0
+protocol: 
+domain: 
+dir: 
+channel: 
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/85da58834e7119b4b0068fe897fefa927e853640.jpg
+description: 2015年7月より放送開始のTVアニメ「Charlotte」のラジオ番組。
+友利奈緒役の佐倉綾音さんをパーソナリティに迎えた、惑い、巡り、繰り返す。
+青春と能力のラジオです。
+cast: 
+
+名字: まなびぃ♥そらじぃの○○Cafe
+Link: http://hibiki-radio.jp/description/cafe
+回数: 次回の生放送は　9月28日22時！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/eee2fc8180d75bb65fede8782dc86cf57bc85bec.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/87e2ae22cc9c2506ef0b0482dc6f2d8ed7cbb95e.jpg
+ID  : cafe_live
+Coun: 1405
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: skupqori.fcod.llnwd.net
+dir: a7125/e1
+channel: mp4:f/uliza2/910/common_03_common_03.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/87e2ae22cc9c2506ef0b0482dc6f2d8ed7cbb95e.jpg
+description: まなびぃこと水野愛日さんとそらじぃこと徳井青空さんが働く
+○○Cafeで起こる様々な出来事をお伝えしていく番組です！
+
+店名を決めてくれた方をその回のオーナーに任命させて頂きます！
+
+※再配信曜日が隔週金曜日から隔週水曜日に変更になりました。
+cast: 
+
+名字: AMAZING SOUL LABO RADIO
+Link: http://hibiki-radio.jp/description/asl
+回数: ★本日22時より生放送★
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/729ebe743b83d70645ff62e42de1e7658069873b.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fc7486cf7f6e49daa2c317c0786b1b33d6c464b6.jpg
+ID  : asl-live
+Coun: 1671
+Pmt1: 1
+Pmt2: 0
+protocol: 
+domain: 
+dir: 
+channel: 
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fc7486cf7f6e49daa2c317c0786b1b33d6c464b6.jpg
+description: 「AMAZING SOUL LABO RADIO」は
+EARLY WING GROUPの声優がお送りする番組です！
+それぞれの魅力を様々なコーナーや
+リスナーのみなさんとの交流を通して研究していきます。
+2代目パーソナリティは阿部大樹さんと東城日沙子さん！
+新たな雰囲気でお届けするラボラジにご期待ください！
+
+cast: 
+
+名字: ラジオ　To LOVEる-とらぶる- ダークネス2nd ～えっちぃのはキライですがやっぱり素敵です♥～
+Link: http://hibiki-radio.jp/description/darkness
+回数: 第１２回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/e720eb8d3e642c8bd99736bc4f9e598cb0a8f6a5.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/7507a227becc2ef5c588033e82e8510e306a5595.jpg
+ID  : darkness
+Coun: 1741
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_darkness_150921_darkness-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/7507a227becc2ef5c588033e82e8510e306a5595.jpg
+description: 2015年7月から放送開始の
+TVアニメ「To LOVEる-とらぶる- ダークネス2nd」を
+応援していく番組です！
+パーソナリティは「金色の闇役の福圓美里さん」と
+「黒咲芽亜役の井口裕香さん」の2人が務めます！
+cast: 福圓美里 / 井口裕香
+
+名字: 「実は私はらじお」
+Link: http://hibiki-radio.jp/description/jitsuwataradio
+回数: 第１２回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/d01fc28120c868adce71641b80f3ebcaf2f1fd0c.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/12927e2ac2b3ace7cbe42beaccef51df9688b39b.jpg
+ID  : jitsuwataradio
+Coun: 1736
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_jitsuwata_150921_jitsuwata-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/12927e2ac2b3ace7cbe42beaccef51df9688b39b.jpg
+description: 2015年7月スタートのアニメ「実は私は」のラジオ番組。
+通称、「じつわたらじお」が7月より放送開始！
+白神葉子役の芹澤優さんと紅本茜役のM・A・Oさんがお届けします！
+cast: 芹澤優 / M・A・O
+
+名字: ガッチャマンクラウズＲａｄｉｏ～インサイト～
+Link: http://hibiki-radio.jp/description/gatcha
+回数: 第１１回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/3fd28f12fba286d1d2f139e92c9e7b0ac823dad8.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/6d5131627da3e94643495f4a152319561aac5c11.jpg
+ID  : gatcha
+Coun: 1759
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_gatcha_150921_gatcha-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/6d5131627da3e94643495f4a152319561aac5c11.jpg
+description: 惜しまれながら第一期を終了したガッチャマンクラウズＲａｄｉｏが帰ってきます！
+2期はパーソナリティー交代制でお届け！
+
+今回も7月からスタートする
+テレビアニメ「GATCHAMAN CROWDS　 insight」にまつわる情報や、
+ここでしか聴けないトークも盛りだくさんでお送りします！
+第二期スタートのお祝いコメントも大募集！メールは今すぐ！！
+cast: 
+
+名字: ラジオのRINNE・・・みたいな？
+Link: http://hibiki-radio.jp/description/rinne
+回数: 第２５回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/dacfd9b4c861996f87a6f395f5422572e6df2a23.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/87e83ae148f104df62b646d61f42cf3ff4355fd5.jpg
+ID  : rinne
+Coun: 1687
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_rinne_150921_rinne-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/87e83ae148f104df62b646d61f42cf3ff4355fd5.jpg
+description: この番組は、2015年4月から始まるアニメ「境界のRINNE」の魅力を、
+メインパーソナリティの石川界人さんと、
+サブパーソナリティの洲崎綾さん・徳井青空さんが
+お届けしていくラジオ番組です！
+cast: 石川界人 / 徳井青空 / 洲崎綾
+
+名字: エミル・クロニクル・オンライン　アクロニア学院　放送室
+Link: http://hibiki-radio.jp/description/eco
+回数: 第２５回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/4a000703ba4b0bf4442884eaa1ccdf7d6b8eb11d.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/aca160b057145624cbb3184120aa753c333d066d.jpg
+ID  : eco
+Coun: 1702
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_eco_150921_eco-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/aca160b057145624cbb3184120aa753c333d066d.jpg
+description: ハートフルオンラインRPG「エミル・クロニクル・オンライン」の
+10周年をとことん応援する30分ラジオ番組。
+パーソナリティはブリキングＲＸ１・アルマ役の伊藤かな恵さんです！
+毎回ゲストを迎えて「カワイイ」をたっぷりお届けいたします！
+cast: 伊藤かな恵
+
+名字: えとたまらじお～ソルラルくれにゃ！～
+Link: http://hibiki-radio.jp/description/etotama
+回数: 第２９回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/c5ede9e5d0e470c821aba118f32d913f51edd8a9.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/e320c5e32dbe9fc04d6cdc1d39b5c0c6f7e9f630.jpg
+ID  : etotama
+Coun: 1710
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_etotama_150921_etotama-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/e320c5e32dbe9fc04d6cdc1d39b5c0c6f7e9f630.jpg
+description: 2015年4月よりTOKYO MXほかにて放送されるTVアニメ「えとたま」を盛り上げるために
+にゃ～たん役の村川梨衣と、モ～たん役の松井恵理子と、
+ウリたん役の花守ゆみりが体当たりでお届けします！
+でも、そんなことよりソルラルくれにゃ～
+cast: 村川梨衣(にゃ～たん 役) / 松井恵理子(モ～たん 役) / 花守ゆみり(ウリたん 役)
+
+名字: 夜中メイクが気になったから
+Link: http://hibiki-radio.jp/description/midnightmake
+回数: 第１６６回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/431e593d23ab3e7acee21497674c38d20319f277.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/40801d391775615c563f12f3dd29efe41a5f2aab.jpg
+ID  : midnightmake
+Coun: 1297
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_midnightmake_150921_midnightmake-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/40801d391775615c563f12f3dd29efe41a5f2aab.jpg
+description: アーティスティックな女性声優がお送りする芸術をコンセプトとした
+アーティスティック・バラエティ・ラジオ番組！
+誰にも理解されない「こだわり」をもつパーソナリティが
+その全てを芸術として昇華させていきます。
+
+現在、基本的には各週生放送でお送りしている、
+15周年を迎えた1314V- STATIONが自信と確信をもって
+お送りしている番組です。
+cast: 
+
+名字: THE WORKS せず
+Link: http://hibiki-radio.jp/description/workssezu
+回数: 第１４２回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/90c6bed06542b001080ed2958ac1c81b231c817d.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/403a4368278f3214260bab9bf6447a3fdf645c82.gif
+ID  : workssezu
+Coun: 1343
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_workssezu_150921_workssezu-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/403a4368278f3214260bab9bf6447a3fdf645c82.gif
+description: 志倉千代丸と桃井はるこが、妄想爆発のコーナーで、
+ついにHiBiKi Radio Stationに参戦！
+cast: 志倉千代丸 / 桃井はるこ
+
+名字: ちあきのあにまにあ
+Link: http://hibiki-radio.jp/description/animania
+回数: 第１８１回　９月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/7e8bc7504f3bbc87e63185ae46de3b3f14133a59.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/43c04bb556208c31b7c4220e91173cff541e8b23.jpg
+ID  : animania
+Coun: 917
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150921_animania_150921_animania-gxhHLBwO-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/43c04bb556208c31b7c4220e91173cff541e8b23.jpg
+description: 「あにそん」には素晴らしいパワーがある！
+「あにそん」を聞いて明日からの１週間がんばる元気を！
+アニメ大好き西尾ちあきが番組をナビゲート♪
+
+ただ「あにそん」を聴いてもらうだけではなく、その曲が主題歌となっているアニメの紹介、
+西尾ちあきの「勝手な」思い入れ話をはじめ、リスナーさんのまにあっく話も紹介します☆
+
+【この番組はMROラジオ（石川）・FBCラジオ（福井）で毎週日曜よる１１：００から放送中の番組『ちあきのあにまにあ』の紹介番組です】 
+cast: 西尾ちあき（北陸放送アナウンサー）
+
+名字: デレラジA
+Link: http://hibiki-radio.jp/description/imas_cg
+回数: 第３７回　９月２２日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/c3e6da4e3bb1c9a1c36421e997436d0eb057554d.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/5b34ffc6936246c7fb4f675d255e41c580456eb3.jpg
+ID  : imas_cg
+Coun: 1238
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150922_imas_cg_150922_imas_cg-MR7nWs9C-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/5b34ffc6936246c7fb4f675d255e41c580456eb3.jpg
+description: この番組は、TVアニメ　アイドルマスターシンデレラガールズを応援し、
+みなさんにその魅力を伝えていく番組です。
+プロデューサーの皆さん、
+一緒にシンデレラガールズを盛り上げていきましょう！
+
+響 - HiBiKi Radio Station –では
+生放送後のおまけコーナーを追加して翌火曜日より1週間配信！
+こちらも是非、お聴き下さいね！
+cast: 大橋彩香 / 福原綾香 / 佳村はるか
+
+名字: Charlotteラジオ ～友利奈緒の生徒会活動日誌～
+Link: http://hibiki-radio.jp/description/charlotte
+回数: 第１２回　９月２２日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/4e9b36aeed11d4077e5123cbfa450650380bec42.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/971b1106a9d837e337d735bb1f3397f57e57d3d9.jpg
+ID  : charlotte
+Coun: 1745
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150922_charlotte_150922_charlotte-MR7nWs9C-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/971b1106a9d837e337d735bb1f3397f57e57d3d9.jpg
+description: 2015年7月より放送開始のTVアニメ「Charlotte」のラジオ番組。
+友利奈緒役の佐倉綾音さんをパーソナリティに迎えた、惑い、巡り、繰り返す。
+青春と能力のラジオです。
+cast: 佐倉綾音
+
+名字: ミルラジ
+Link: http://hibiki-radio.jp/description/milradi
+回数: 第１回　９月１５日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/af0ddb7ae2c9375b2ead48cf51dad8ca0ffc3b7e.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ce8ea616798d00e3d3d0c83d1e8d7f20359cd9f5.jpg
+ID  : milradi
+Coun: 1774
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150915_milradi_150915_milradi-tLtLYnFN-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ce8ea616798d00e3d3d0c83d1e8d7f20359cd9f5.jpg
+description: ついにミルキィホームズのラジオが帰ってきた！
+全世界のミルキアンの皆様、大変長らくお待たせいたしました。
+ミルキィホームズのラジオ『ミルラジ』復活です。
+2016年に映画公開も決定したミルキィホームズ。
+映画情報はもちろん、ライブやイベントも追いかけていきますよ！
+cast: ミルキィホームズ（三森すずこ・徳井青空・佐々木未来・橘田いずみ）
+
+名字: 愛美のゆとりん学園
+Link: http://hibiki-radio.jp/description/aimin
+回数: 第41回(第77回)　9月22日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/7960625ce5ad74d05a2be87bb047c932b57f8075.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fe1ddb04cfd6462285bdd34d60566df8f4aed18c.jpg
+ID  : aimin
+Coun: 1554
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150922_aimin_150922_aimin-MR7nWs9C-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fe1ddb04cfd6462285bdd34d60566df8f4aed18c.jpg
+description: 『ゆとりん学園』は、ゆとり世代の星である愛美が、
+愛美世代のみなさんと楽しい学園生活をおくっていこうという番組です。
+学校で勉強した国語、算数、理科、社会など、各教科にちなんだコーナーを行っていきます！
+
+※「ゆとりん学園」では、
+愛美ファンおよびリスナーのことを「愛美世代」と言います！
+
+cast: 愛美
+
+名字: レッツ＆ゴー!!情報局　Radio Racers!!
+Link: http://hibiki-radio.jp/description/let_go
+回数: 第９回　９月１５日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/03396f40ad462213530e325416bad017ad0e190b.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/f24927ebdd09294573fdb3a0af67843c02bd90b0.jpg
+ID  : let_go
+Coun: 1731
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150915_let_go_150915_let_go-tLtLYnFN-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/f24927ebdd09294573fdb3a0af67843c02bd90b0.jpg
+description: 『爆走兄弟レッツ＆ゴー!!』とミニ四駆の情報を紹介しつつ、
+『コロコロアニキ』にて連載の
+『爆走兄弟レッツ＆ゴー!! Return Racers!!』
+そして、
+スマホゲーム『爆走兄弟レッツ＆ゴー!! ミニ四駆ワールドランナー』を
+盛り上げていくラジオ番組です。
+cast: 森久保祥太郎 / 徳井青空
+
+名字: ダイヤのＡ ～ネット甲子園～
+Link: http://hibiki-radio.jp/description/diaace
+回数: 第９０回　９月１５日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/4fbc3e8e1184e6de1e0462111678ff450e1b8516.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/1c020d65b22955cda0d6187f49fc1bef69cd6cc1.jpg
+ID  : diaace
+Coun: 1617
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150915_diaace_150915_diaace-tLtLYnFN-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/1c020d65b22955cda0d6187f49fc1bef69cd6cc1.jpg
+description: 絶賛放送中の大人気高校野球アニメ『ダイヤのＡ』の魅力を
+全力投球でお届けするラジオが更にリニューアル！
+レギュラーパーソナリティには金丸信二役の松岡禎丞さん、
+東条秀明役の蒼井翔太さんが新たに登板！
+
+これまでレギュラーパーソナリティとして登板されていた
+沢村栄純役の逢坂良太さん、降谷暁役の島﨑信長さん、
+御幸一也役の櫻井孝宏さん、小湊春市役の花江夏樹さん、
+滝川クリス優役の浪川大輔さん、川上憲史役の下野紘さんには、
+ローテーションパーソナリティとして毎回どなたかに打順が回ります！
+
+新たなパーソナリティ2人が、新たなローテーションで、
+試合（ラジオ）を熱く激しく盛り上げていきます！
+更にパワーアップしたネット甲子園、プレイボール！！ 
+cast: 松岡禎丞 / 蒼井翔太
+
+名字: ラブライブ！ μ's広報部　~にこりんぱな~
+Link: http://hibiki-radio.jp/description/lovelive_ms
+回数: 第８５回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/2799329bb3afd611e9a0d29dd949872111187d3f.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c7562a9a9a67e099402d472585bcdc5068da0d24.jpg
+ID  : lovelive_ms
+Coun: 1328
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_lovelive_ms_150923_lovelive_ms-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c7562a9a9a67e099402d472585bcdc5068da0d24.jpg
+description: スクールアイドルプロジェクト
+「ラブライブ！」のラジオがパワーアップ！
+
+この番組はリスナーみんなでμ’ｓを応援していく番組です。
+
+パーソナリティは引き続き、矢澤にこ役・徳井青空さん、
+星空凛役・飯田里穂さん、小泉花陽役・久保ユリカさんの
+３人でお届け致します。
+cast: 飯田里穂 / 久保ユリカ / 徳井青空
+
+名字: Radio「緋弾のアリアAyane Ai」
+Link: http://hibiki-radio.jp/description/ariaaa
+回数: プレ配信　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/32ad82d958bf912e0e5e92c0eb4e0b24d4ba2009.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bc85ac1eaff00b984b22444f3135aff469044963.jpg
+ID  : ariaaa
+Coun: 1777
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_ariaaa_150923_ariaaa-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bc85ac1eaff00b984b22444f3135aff469044963.jpg
+description: 2015年10月から放送開始予定のTVアニメ『緋弾のアリアAA』のラジオが配信決定！
+パーソナリティは、自然と仲間をひきつける明るい性格な、間宮あかり役の佐倉綾音さんと、あかりの事が大好きな佐々木志乃役、茅野愛衣さんの2人がお送りします。
+cast: 佐倉綾音 / 茅野愛衣
+
+名字: ラジオ七つの大罪　＜豚の帽子＞亭ホークトーク
+Link: http://hibiki-radio.jp/description/taizai
+回数: 第４６回　９月１６日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/2365074261507f4f8ca362cd373432d1fa5987c1.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/d36997e2e8fb08f8e4429d74df28d220a7de8b32.jpg
+ID  : taizai
+Coun: 1642
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150916_taizai_20150916_taizai-rIKvmTt6-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/d36997e2e8fb08f8e4429d74df28d220a7de8b32.jpg
+description: この番組は、
+アニメ「七つの大罪」をより盛り上げるためのラジオ番組です！
+「＜豚の帽子＞亭ラジオ支店」より店長の久野美咲さんが
+店員さんをお迎えしてお送りしますので、お楽しみに！！
+cast: 久野美咲
+
+名字: 日本一ＲＡＤＩＯ死す。
+Link: http://hibiki-radio.jp/description/nippon1-shisu
+回数: 1周目の3日目(第174回)　9月23日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/d81dbf6dc0ab4ace7f68e91cb3cb8f17b5817738.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/4b6da2457d22299f8a93b93cdd8d731c8926e07c.jpg
+ID  : nippon1-shisu
+Coun: 1765
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_nippon1_150923_nippon1-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/4b6da2457d22299f8a93b93cdd8d731c8926e07c.jpg
+description: 日本一（？）のゲーム会社「日本一ソフトウェア」がお送りする
+「日本一のラジオ」っス！
+現在は、2016年2月25日（木）に発売予定の
+PS-VITA専用ＲＰＧ『勇者死す。』の強化期間ッス！
+
+メインパーソナリティは、日本一ソフトウェアの公式マスコット
+――プリニー役の間島淳司さんッス！
+サブパーソナリティは、ユリア役の今井麻美さん、
+風祭フーカ役（from 魔界戦記ディスガイア４)の三森すずこさんッス！
+
+日本一のリスナーである皆さんと一緒に、
+日本一の番組を目指して、盛り上げて行こうッス！！
+
+※この番組でいう「日本一」は、番組独自のモノとなります。
+　ご了承下さい。
+
+※毎回お便りを読まれた方の中から、
+抽選で１名様に『番組ノベルティグッズ』を差し上げますので、
+ノベルティ希望の方は住所、お名前、電話番号の記載をお願いします。
+cast: 間島淳司 / 今井麻美 / 三森すずこ
+
+名字: ラジオ　神撃のバハムート　バハラジ
+Link: http://hibiki-radio.jp/description/bahamut
+回数: 第９２回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/8381aef025c581e02a0e904a281cac754d271389.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/75d2e35cf50b5cd12c0c6fcf1ce39513ee818bbf.jpg
+ID  : bahamut
+Coun: 1498
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_bahamut_150923_bahamut-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/75d2e35cf50b5cd12c0c6fcf1ce39513ee818bbf.jpg
+description: この番組はモバゲーで配信中のカードRPG
+『神撃のバハムート』の魅力を伝えていく番組です。
+みなさんと一緒に番組も作品も共に進化していきます！
+cast: 蒼井翔太 / 辻あゆみ
+
+名字: 新田恵海の えみゅーじっく♪まじっく☆
+Link: http://hibiki-radio.jp/description/tsunradi
+回数: 第４９回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/965e66c9e84f51a6e41964f84f6c68ef25d63e81.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/822aac6758404f0b75d408fcacac1a71d9b43631.jpg
+ID  : tsunradi
+Coun: 1595
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_tsunradi_150923_tsunradi-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/822aac6758404f0b75d408fcacac1a71d9b43631.jpg
+description: アーティストデビューが決定した新田恵海の成長を見守り、
+ファンと新田恵海を繋ぐラジオ番組。
+今までの魅力に加え、他ではあまり見られなかったパーソナルな部分も
+たっぷりお届けしちゃいます！
+cast: 新田恵海
+
+名字: 浅沼晋太郎・鷲崎健の「思春期が終わりません」
+Link: http://hibiki-radio.jp/description/shisyunki
+回数: 第３５回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/ec6a63d732c6791e0613942674cd476717dfc30d.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/275d1019e14f2d757a87e88fe599eff98f0b0bd5.jpg
+ID  : shisyunki
+Coun: 1627
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_shisyunki_150923_shisyunki-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/275d1019e14f2d757a87e88fe599eff98f0b0bd5.jpg
+description: この番組は、浅沼晋太郎と鷲崎健が、思春期の気持ちそのままに、
+夢を叶えていこう、という番組です！
+cast: 浅沼晋太郎 / 鷲崎健
+
+名字: で、何します？
+Link: http://hibiki-radio.jp/description/nanishimasu
+回数: 第３回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/f51dd9a559bb69dc51b9180d786fcc19d190cb73.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/449bd8bded0e09f9a5a6ed8ad519607399a73d9f.jpg
+ID  : nanishimasu
+Coun: 1768
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_nanishimasu_150923_nanishimasu-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/449bd8bded0e09f9a5a6ed8ad519607399a73d9f.jpg
+description: ex.ロードオブメジャー(リーダー＆ベース)松本賢一(Macchan)＆
+ex.Z-1(リーダー)西脇愛美(manah)のポップロックバンド
+「TAROCK」のベース、ボーカル コンビと
+「ぺぷらむ」のドラム YUME、
+番組アシスタント HALMIの４人が繰り広げる
+みんなと作る音楽?!バラエティ番組!!「で、何します？」
+cast: manah(TAROCK) / Macchan(TAROCK) / YUME(ぺぷらむ) / ＨＡＬＭＩ(番組アスタント)
+
+名字: XRADIOS
+Link: http://hibiki-radio.jp/description/xradio
+回数: 第３８回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/fbbdb71859fc1b314cf19c248d61336a76518359.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fea66991cb0465468399a18473dc7e8fbb751ff6.jpg
+ID  : xradio
+Coun: 1679
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_xradios_150923_xradios-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fea66991cb0465468399a18473dc7e8fbb751ff6.jpg
+description: この番組はDMMの美少女ゲーム最新情報や
+そのほか最新コンテンツの情報をmilktub bambooが
+パーソナリティとしてお伝えしていく情報バラエティ番組です！
+
+リスナーの皆様と一緒に様々企画、
+コーナーを作って盛上げていきますので、番組宛へのお便り、感想、
+リクエストなどがございましたら
+お気軽にメールを送って頂けるとうれしいです！
+たくさんのメールお待ちしております！
+cast: bamboo　（milktub Vo） / 上田朱音
+
+名字: 彩音のChoco-Bana-Radio
+Link: http://hibiki-radio.jp/description/choco-bana
+回数: 第１１７回　９月２３日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/90689ba1ae2faeb96532359914f22a7c8df54641.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/a8a95834db99eb7d3e86af5826aa7d564e4da9c4.jpg
+ID  : choco-bana
+Coun: 1424
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_choco-bana_150923_choco-bana-vZCRZtFE-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/a8a95834db99eb7d3e86af5826aa7d564e4da9c4.jpg
+description: 劇場版「STEINS;GATE負荷領域のデジャヴ」エンディングテーマ
+「いつもこの場所で」、
+ゲーム「STEINS;GATE 線形拘束のフェノグラム」主題歌
+「フェノグラム」他、
+数々のアニメ＆ゲームソングを担当。
+
+NEWアルバム「Luminous Flux」をリリースした
+アーティスト・彩音の初のソロパーソナリティーによる
+ラジオ番組「彩音のChoco-Bana-Radio」。
+cast: 彩音
+
+名字: まなびぃ♥そらじぃの○○Cafe
+Link: http://hibiki-radio.jp/description/cafe
+回数: ９月１４日の生放送を再配信中！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/85a862943cecdb80a9aeec8def75553ff44d0fcb.jpg
+Pict: 
+ID  : cafe
+Coun: 1368
+Pmt1: 1
+Pmt2: 1
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150916_cafe_150916_cafe-rIKvmTt6-fl.mp4
+thumbnail: 
+description: まなびぃこと水野愛日さんとそらじぃこと徳井青空さんが働く
+○○Cafeで起こる様々な出来事をお伝えしていく番組です！
+
+店名を決めてくれた方をその回のオーナーに任命させて頂きます！
+
+※再配信曜日が隔週金曜日から隔週水曜日に変更になりました。
+※こちらの番組は、動画番組になります。
+cast: 水野愛日 / 徳井青空
+
+名字: AMAZING SOUL LABO RADIO
+Link: http://hibiki-radio.jp/description/asl
+回数: ９月２１日の生放送を再配信中！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/5b9189986f70c5175ef3256b1e213d89e0d80da4.jpg
+Pict: 
+ID  : asl
+Coun: 1678
+Pmt1: 1
+Pmt2: 1
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150923_asl_150923_asl-vZCRZtFE-fl.mp4
+thumbnail: 
+description: 「AMAZING SOUL LABO RADIO」は
+EARLY WING GROUPの声優がお送りする番組です！
+それぞれの魅力を様々なコーナーや
+リスナーのみなさんとの交流を通して研究していきます。
+2代目パーソナリティは阿部大樹さんと東城日沙子さん！
+新たな雰囲気でお届けするラボラジにご期待ください！
+
+cast: 阿部大樹 / 東城日沙子
+
+名字: TVアニメ「SHOW BY ROCK!!」～対バン！にこにゃま～
+Link: http://hibiki-radio.jp/description/sb69a
+回数: 第１７回　９月２日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/ecfb642ecb0d91b29fe74a3fc790b14625c6826c.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bf141d3601d685d7ccd34ba304ffa3964fb3bc80.jpg
+ID  : sb69a
+Coun: 1709
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150725_sb69a_150902_sb69a-h515WqRe-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bf141d3601d685d7ccd34ba304ffa3964fb3bc80.jpg
+description: 2015年4月放送開始の
+TVアニメ「SHOW BY ROCK！！」を盛り上げていく番組です。
+パーソナリティは、
+TVアニメ「SHOW BY ROCK！！」に登場するバンドのメンバーから
+シャッフル形式で登場！
+同じバンド！対バン形式！などなど色んなかたちで登場するぞ♪
+
+TVアニメ「SHOW BY ROCK!!」～対バン！にこにゃま～
+※ニコニコ生放送は後日、＜音泉＞、響 - HiBiKi Radio Station - 
+にて音声のみアーカイブ配信をしますよ♪
+cast: 
+
+名字: ヘヴィーオブジェクト　超大型ラジオ
+Link: http://hibiki-radio.jp/description/heavyobject
+回数: 第０回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/1b367183a1bcbbe7f0cd1df6bc91a88633a07ca0.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/9ab28bd2426c3c7351f9e0a86ff02a996c34f2b7.jpg
+ID  : heavyobject
+Coun: 1779
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_heavyobject_150924_heavyobject-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/9ab28bd2426c3c7351f9e0a86ff02a996c34f2b7.jpg
+description: 2015年10月から放送開始となります
+TVアニメ「ヘヴィーオブジェクト」に出演する
+クウェンサー＝バーボタージュ役の花江夏樹と
+ヘイヴィア＝ウィンチェル役の石川界人が
+作品の魅力や最新情報をお届けします！お楽しみに！
+cast: 花江夏樹 / 石川界人
+
+名字: ラジオ「アクエリオンロゴス」創声部
+Link: http://hibiki-radio.jp/description/logos
+回数: 第１２回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/f6227066e3c53b8a29828ad7ed9fdd2b96609338.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/9109dbc3503ccf6a5cb19ef8a9a6363d95397fc0.jpg
+ID  : logos
+Coun: 1747
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_logos_150924_logos-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/9109dbc3503ccf6a5cb19ef8a9a6363d95397fc0.jpg
+description: 2015年7月2日から放送開始のTVアニメ「アクエリオンロゴス」の
+最新情報をお伝えするのはもちろん、出演キャスト３名で
+明るく楽しく元気よく作品を盛り上げていくラジオです。
+cast: 安達勇人 / 小澤亜李 / 千菅春香
+
+名字: GATE　自衛隊　彼の地にて、斯く戦えり～アルヌス放送局～
+Link: http://hibiki-radio.jp/description/gate
+回数: 第１４回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/bbd852f51a15bc3aed1aee03e2a95e0590d32446.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/e26e34e9dd1c5be8a2c9a52709216eb6632a9ed1.jpg
+ID  : gate
+Coun: 1748
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_gate_150924_gate-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/e26e34e9dd1c5be8a2c9a52709216eb6632a9ed1.jpg
+description: この番組は、2015年7月から放送開始の
+TVアニメ「GATE　自衛隊　彼の地にて、斯く戦えり」の
+最新情報をお伝えするのはもちろん、伊丹耀司役の諏訪部順一さんと
+テュカ・ルナ・マルソー役の金元寿子さんが
+作品を盛り上げていくラジオです。
+cast: 諏訪部順一 / 金元寿子
+
+名字: AniLabo
+Link: http://hibiki-radio.jp/description/anilabo
+回数: 第４回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/2cc1777b4c9f325715202d505b65401430935058.jpg
+Pict: 
+ID  : anilabo
+Coun: 1778
+Pmt1: 1
+Pmt2: 1
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_anilabo_150924_anilabo-4Cbc0Imq-fl.mp4
+thumbnail: 
+description: アニメ、ゲーム、音楽、映画をはじめとする様々な情報を様々な角度から
+お届けすることを試みる まるで研究所（ラボ）のような番組です！
+cast: 内田理央 / かなでももこ
+
+名字: カードファイト!!ヴァンガードG ヴァンガードラジオG
+Link: http://hibiki-radio.jp/description/vanguard
+回数: 第４５回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/b088fca0692015399dd905ad6ffd2c1a884287a5.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/a9f8211f38bfd0a999dd7902bb0305e87c31636c.jpg
+ID  : vanguard
+Coun: 1660
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_vanguard_150924_vanguard-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/a9f8211f38bfd0a999dd7902bb0305e87c31636c.jpg
+description: TVアニメ「カードファイト!!ヴァンガードG」を盛り上げるために
+「安城トコハ役の新田恵海」と「戸倉ミサキ役の橘田いずみ」が
+ラジオを発信！
+cast: 新田恵海 / 橘田いずみ
+
+名字: クロノワルツ冒険活劇ラジオ「クロノワクエスト」 
+Link: http://hibiki-radio.jp/description/chronowaltz
+回数: 第２２回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/0232fb5f93cb61d0b465064bff780af04520ac9f.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/3223573dc310590288b5d587965019cce183fa9f.png
+ID  : chronowaltz
+Coun: 1715
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_chronowaltz_150924_chronowaltz-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/3223573dc310590288b5d587965019cce183fa9f.png
+description: この番組は、僕達Chronowaltsが、いろいろな冒険をし
+ながら、声優として、アイドルとして、もっともっと成長し
+ていこうという、ボイスドラマあり、エチュードありの番組です。
+cast: 垣坂翔太（Chronowalts） / 高井周平（Chronowalts） / 織乃靖弘（Chronowalts） / 三浦愛恵
+
+名字: しろくろジョーカー　電波瓦版
+Link: http://hibiki-radio.jp/description/shirokuro
+回数: 第１０回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/731e311c856330d1f488f1b92e86c76666d65bb5.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/2d6fa1421e4ad89b415d57a544f0800d0c46c790.jpg
+ID  : shirokuro
+Coun: 1725
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_shirokuro_150924_shirokuro-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/2d6fa1421e4ad89b415d57a544f0800d0c46c790.jpg
+description: ブシモで好評配信中のスマホゲーム『しろくろジョーカー』を宣伝し、
+かつ、様々なメディア展開（！？）を後押しするラジオ番組ですじゃ。
+
+ちなみに『しろくろジョーカー』は戦国城下町シミュレーションゲーム。
+頼れる武将と一緒に城下町を作ったり、全国の城主と戦って、
+日本一の城主を目指すゲームとなっております。
+
+パーソナリティは伊達政宗役の佐藤拓也さんと
+上杉謙信役の森嶋秀太さんですじゃ。
+
+作品をモチーフにしたコーナーや、歴史の雑談コーナーを展開しつつ、
+「しろくろジョーカー」の魅力を存分にお伝えしたいと考えておりまする。
+
+男子校の歴史研究会を覗いているような、
+もしくは一緒に話しているような、そんな感覚で聴いてくだされ！
+
+全国の城主の皆様！（リスナーさんのことじゃ）
+たくさんのお便りお待ちしておりますぞ！
+
+（代筆：じい）
+cast: 佐藤拓也 / 森嶋秀太
+
+名字: 浅野真澄　生天目仁美の　HiBiKi当千
+Link: http://hibiki-radio.jp/description/tousen
+回数: 第９６回　９月２４日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/0d34fa55e036f5f2ad3e002373844955c42338f0.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fcebe6dd7a612b56013746ed08deb718b745497e.jpg
+ID  : tousen
+Coun: 1334
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150924_tousen_150924_tousen-4Cbc0Imq-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/fcebe6dd7a612b56013746ed08deb718b745497e.jpg
+description: この番組は、
+予算１０万HiBiKiを番組を通して増やしていって
+最終的に大規模公開録音を開こうという番組です！
+因みにこの番組内においての通貨単位で
+日本円にすると１円＝１HiBiKiです！
+cast: 浅野真澄 / 生天目仁美
+
+名字: 荒浪和沙のロボガZフルバト放送局
+Link: http://hibiki-radio.jp/description/rgz-fb
+回数: 第５回　９月１７日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/ef84efe7df1d3a1ce5d9a0072e364bbbebad5e6f.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/f40abc486b8cda6c0deff3d5385a8e6241ab3cbb.jpg
+ID  : rgz-fb
+Coun: 1763
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150917_rgz-fb_150917_rgz-fb-W61fQD23-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/f40abc486b8cda6c0deff3d5385a8e6241ab3cbb.jpg
+description: 「ロボットガールズZ」がスマホゲームに登場！！
+
+この番組は、
+『ロボットガールズZ フルボッコバトル』を応援していく番組です！
+
+フルバトの最新情報はもちろん、
+この番組でなければ聞けない（かもしれない☆）
+お得な情報をお聴き逃しなく！
+
+荒浪和沙ひとりで本当に大丈夫なのか…？
+是非あたたかい心でお聞きください！
+cast: 荒浪和沙
+
+名字: 吉田真弓・三宅淳一の「響け！ねぶロード！」
+Link: http://hibiki-radio.jp/description/navroad
+回数: 第９回　９月１７日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/0719f6717c89ffcebc694bd7cffa7b28c8f4f030.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/e21b97b8d2a5b2715f3a267a81d66183f02c46c1.jpg
+ID  : navroad
+Coun: 1733
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150917_navroad_150917_navroad-W61fQD23-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/e21b97b8d2a5b2715f3a267a81d66183f02c46c1.jpg
+description: この番組は吉田真弓と三宅淳一が、
+日本一の…いや、世界一の
+『ゲームメーカー情報ポータルラジオ』を目指す、
+リアルゲーム型シュミレーションラジオ番組です。
+cast: 吉田真弓 / 三宅淳一
+
+名字: あるらじ！そよぎと六花の Radio de ALcot！
+Link: http://hibiki-radio.jp/description/alcot
+回数: 第５４回　９月１７日配信！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/8367783653fc9d14038bf5cf1a022e3656d3f1ab.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bf293a58b635aa87f8905cde8aa9a9c44eb22011.jpg
+ID  : alcot
+Coun: 1417
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150917_alcot_150917_alcot-W61fQD23-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bf293a58b635aa87f8905cde8aa9a9c44eb22011.jpg
+description: パーソナリティに遠野そよぎさんと北見六花さんをお迎えして、
+時にしっとりとチテキにオトナに。
+時にフリーダムにALcotとhoneycombをご紹介しちゃったり、
+美少女ゲーム業界の事について語っちゃう『体感３０分』番組です。
+
+月２回の放送となっております。
+この度「あるらじ！」として番組もリニューアル致しました。
+皆様、これからも付いてきてくださいねっ！
+cast: 遠野そよぎ / 北見六花 / 宮蔵
+
+名字: 佐藤ひろ美のひろらじ
+Link: http://hibiki-radio.jp/description/hiroraji
+回数: 第１３０回　９月１７日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/0a47db1fc29b5d63184d0c4b17a4d7beaee40c5c.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/3619346ec537605209a689cce96b1a98467dfca8.jpg
+ID  : hiroraji
+Coun: 1390
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150917_hiroraji_150917_hiroraji-W61fQD23-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/3619346ec537605209a689cce96b1a98467dfca8.jpg
+description: アニメ＆ゲームソング界のお姐さん、佐藤ひろ美が親しいゲストやアシスタント達と共にしゃべり歌い踊る番組！
+  歌、作詞作曲、声優、ラジオパーソナリティ、社長、マネージャー、音楽ディレクターと、やってきた色々な活動も今年10周年を迎えました。
+  これからも私の周りの力を貸してくれる様々な人たちと共に、活動の幅をどんどん広げていきます。
+  ギターも弾きます、車の免許を取るかはわかりません。
+
+cast: 佐藤ひろ美
+
+名字: なないろラジオガールズ
+Link: http://hibiki-radio.jp/description/nairon
+回数: 第8回(最終回)　8月27日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/4813cd5ae2070d93a36e0127e3deff4037efc6a6.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/10b8abcb5508cdd95847dbe84775765e06876988.jpg
+ID  : nairon
+Coun: 1719
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150827_nairon_150827_nairon-yuLYhsL1-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/10b8abcb5508cdd95847dbe84775765e06876988.jpg
+description: この夏配信予定のスマートフォンゲーム『なないろランガールズ』をとことん応援するラジオ番組です。
+ゲームの説明はほどほどに、自由でワイワイ楽しい放送をお届けしていきます！
+
+cast: 古木のぞみ / 小澤亜李
+
+名字: アイマスタジオ
+Link: http://hibiki-radio.jp/description/idolmaster
+回数: 第２３２回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/92d8980fdcf6eabad8084a4b1e6887d5450c45d9.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/7241f0e8900c8c744c4a89884be5ce84be0434aa.jpg
+ID  : idolmaster
+Coun: 831
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_idolmaster_150918_idolmaster-ZVFbS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/7241f0e8900c8c744c4a89884be5ce84be0434aa.jpg
+description: この番組は『アイドルマスター』をプロデューサー、
+そしてファンの皆さんと
+世界中に広めていくWEBラジオ番組です！
+
+ラジオをお聞きのみなさん、ちゃんと「アイドルマスター」を盛り上げられるよう、
+どうかプロデュース、お願いいたします！
+メールフォームからの投稿どしどしお待ちしております！！
+cast: 中村繪里子 / 今井麻美
+
+名字: 戦姫絶笑シンフォギアRADIO
+Link: http://hibiki-radio.jp/description/symphogear-gx
+回数: 第１２回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/b4598d30d8b77c997b8da6b93e4cf8acc64b9a74.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bd7fa8a231860f4cb3081b0ee3bf429a5868b54c.jpg
+ID  : symphogear-gx
+Coun: 1758
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_symphogear-gx_150918_symphogear-gx-ZDFb85zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/bd7fa8a231860f4cb3081b0ee3bf429a5868b54c.jpg
+description: この番組は、2015年7月より放送スタートする
+TVアニメ「戦姫絶唱シンフォギアGX」を盛り上げるべく、
+小日向未来役の井口裕香さんがリスナーと共に“絶笑”を目指すラジオです！
+cast: 井口裕香
+
+名字: BanG_Dream! RADIO!!!!!
+Link: http://hibiki-radio.jp/description/BanG_Dream
+回数: 第０回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/79a1e427b402881ce18d089195c5c1465682085d.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/981f55401a8ed054df430b34d538dcefa2d24ba4.jpg
+ID  : BanG_Dream
+Coun: 1776
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_BanG_Dream_150918_BanG_Dream-ZVFFS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/981f55401a8ed054df430b34d538dcefa2d24ba4.jpg
+description: 月刊ブシロードでのイラスト・コミック連載、ライブの開催など
+様々な場面で活動中の｢BanG_Dream!｣が遂にラジオで登場！
+市ヶ谷有咲役の伊藤彩沙をメインパーソナリティに向かえ、
+他メンバーもサブパーソナリティとして登場します！
+ここでしか聴けない情報をお届けしますので、お楽しみに！
+
+
+cast: 伊藤彩沙
+
+名字: ヘタリアWEBラジオ ～ヘタリラ The World Twinkle～
+Link: http://hibiki-radio.jp/description/hetalira
+回数: 第６回　９月１１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/d6356e1e8a4c3fdbb8be6232d24b655d7b34b2fa.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ff88f2567984d575ba56ea046269e997f4a8da4c.jpg
+ID  : hetalira
+Coun: 1760
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150911_hetalira_150911_hetalira-i27lfthz-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ff88f2567984d575ba56ea046269e997f4a8da4c.jpg
+description: 「ヘタリア」WEBラジオの「ヘタリラ」が帰ってきた！！ 
+2015年7月からのアニメ『ヘタリア The World Twinkle』の
+開始とともに、 新たなコーナーなども加わって
+リニューアルスタート！ 
+cast: 
+
+名字: ラジオ　VENUS PROJECT
+Link: http://hibiki-radio.jp/description/vproject
+回数: 第２５回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/e16d507c74d8ca93b8acb7e2cc7975ab42b9915a.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/2791a3502c9b9e5cd09f34649aeb59c5babde2f7.jpg
+ID  : vproject
+Coun: 1700
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_vproject_150918_vproject-ZVFFS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/2791a3502c9b9e5cd09f34649aeb59c5babde2f7.jpg
+description: ゲーム、アニメ、コミック、そしてライブやバラエティ番組など、
+多岐に渡るクロスメディア展開を準備している
+「ヴィーナスプロジェクト」。
+
+PROJECTの先陣を切ってラジオ番組がはじまりました！
+高野歌恋役の姫崎愛未、更級美月役の田辺留依、
+そして香島夕役の根本流風をパーソナリティに迎え、
+毎週「VENUS PROJECT」の最新情報をお伝えいたします。
+cast: 姫崎愛未 / 田辺留依 / 根本流風
+
+名字: ラジオ　モモキュンソード　Ｒ！
+Link: http://hibiki-radio.jp/description/momor
+回数: 第５回　９月１０日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/1892224a36675765cf9730eab7bacb43e21050c2.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/7eb841523c03db6dadfe1d58ab2435f5f236274a.jpg
+ID  : momor
+Coun: 1757
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150910_momor_20150910_momor-pNbjSuuI-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/7eb841523c03db6dadfe1d58ab2435f5f236274a.jpg
+description: 好評のうちに終了した
+「津田美波のラジオ　モモキュンソード！」がパワーアップして復活！！
+MCは鬼姫役の津田美波さんといちご役の高野麻里佳さんが担当します。
+cast: 津田美波 / 高野麻里佳
+
+名字: 南條愛乃・エオルゼアより愛をこめて
+Link: http://hibiki-radio.jp/description/ff
+回数: 第４６回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/b35ef75843c7c17a0e5881416ab63c2abe594b18.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/9b9b2aa49959203ac5aff1737db7d5728684504d.jpg
+ID  : ff
+Coun: 1655
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_ff_150918_ff-ZVFFS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/9b9b2aa49959203ac5aff1737db7d5728684504d.jpg
+description: 「ファイナルファンタジーXIV: 新生エオルゼア」を愛する人による
+「ファイナルファンタジーXIV: 新生エオルゼア」を愛する人のためのWebラジオ番組がここに誕生！
+
+パーソナリティは、声優・歌手の南條愛乃さん。
+
+がっつりプレイしている方はもちろん、
+これから始めてみようかなという方も大歓迎！
+さあ、一緒に「エオルゼア」に旅立ちましょう！
+cast: 南條愛乃
+
+名字: ゆりゆららららゆるゆり放送室
+Link: http://hibiki-radio.jp/description/yuruyuri
+回数: 第２２１回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/35cf9bb84caa8a63a6a01f4519d1711a0c0f39dd.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/b4ff630becf2effc570d96cf0ca463d3b34ff7ab.jpg
+ID  : yuruyuri
+Coun: 922
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_yuruyuri_150918_yuruyuri-ZDFbS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/b4ff630becf2effc570d96cf0ca463d3b34ff7ab.jpg
+description: 大人気TVアニメ「ゆるゆり」のラジオ、
+「ゆりゆららららゆるゆり放送室」がHiBiKi Radio Stationで配信決定！
+パーソナリティのごらく部4人が元気いっぱいでお送りします！
+
+cast: 
+
+名字: ジョジョの奇妙な冒険　スターダストクルセイダース　オラオラジオ！
+Link: http://hibiki-radio.jp/description/jojo
+回数: 第３２回　９月１１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/d4d4d7a87e5a5a4652b6a30c4655bf5fae988bea.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c7b885d43d189e1b3b35fc7980d4d2f474938bf7.jpg
+ID  : jojo
+Coun: 1583
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150911_jojo_150911_jojo-i27lfthz-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c7b885d43d189e1b3b35fc7980d4d2f474938bf7.jpg
+description: TVアニメ「ジョジョの奇妙な冒険　スターダストクルセイダース」の
+ラジオが配信決定ッ！
+空条承太郎役の小野大輔さんが
+ジョジョビギナーの方にもわかりやすい形で
+作品の世界観や魅力を優しく全力で伝えるこのラジオは、
+まだジョジョの事をあまり知らない方でも楽しむことができるッ！
+
+なに…ジョジョの『ラジオ』それじゃあやっぱりィ、
+聴くしかねぇじゃあねーかアーッ
+っという、おせっかい焼きのジョジョエキスパートの方は、
+小野さんと一緒に、
+ジョジョビギナーの方に魅力を伝える手伝いをしてくれ！
+
+勿論、提供はあのスピードワゴン財団ッ！
+cast: 小野大輔
+
+名字: 501st JFW.OA～第五○一統合戦闘航空団公式放送～
+Link: http://hibiki-radio.jp/description/501st
+回数: 第１０９回　９月１０日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/2ce3534223c5347e6c67e58622a208b50ed52b7e.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ea3a467b34cea73f5052abd3d08faf0368268ec6.jpg
+ID  : 501st
+Coun: 549
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150910_501st_150910_501st-pNbjSuuI-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ea3a467b34cea73f5052abd3d08faf0368268ec6.jpg
+description: 大ヒットアニメ『ストライクウィッチーズ』のラジオ！
+第501統合戦闘航空団のウィッチ達が総力戦で戦線を維持しつつ
+別命あるまでラジオの前のあなたと待機する番組です！
+cast: 
+
+名字: ニッポン朗読アカデミー
+Link: http://hibiki-radio.jp/description/roudoku
+回数: 第９４回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/995a820579a0b20c644851321ab324e268140a6a.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/73386770b9c0d14a2146592f0d356c3200d4ab7c.jpg
+ID  : roudoku
+Coun: 1501
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_roudoku_150918_roudoku-ZVFFS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/73386770b9c0d14a2146592f0d356c3200d4ab7c.jpg
+description: 「朗読」とは・・・文章を声に出して読み上げること。
+ただ読むだけでなく、より感情をこめて、聴く人に伝わるように読むこと。
+これは、「朗読」のために青春のすべてを捧げようと
+「ニッポン朗読アカデミー」に入学した、
+ひとクセも、ふたクセもある生徒たちの日常である。
+cast: 茜屋日海夏 / 斉藤壮馬 / 芹澤優 / 高橋李依 / 武内 駿輔 / 春野 ななみ / 西山宏太朗 / 上田麗奈
+
+名字: 森谷里美の完パケラジオ！
+Link: http://hibiki-radio.jp/description/moriya_radio
+回数: 第２５８回　９月１８日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/dde97e3c285ef1b30876e3aa89727a7cf2771bb1.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ad1a4b09db88568bd31e70caca7bb41a44082a0e.jpg
+ID  : moriya_radio
+Coun: 699
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150918_moriya_radio_150918_moriya_radio-ZVFFS5zk-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ad1a4b09db88568bd31e70caca7bb41a44082a0e.jpg
+description: アニメ「センコロール」ケイ役、「DARKER THAN BLACK -流星の双子-」エレーナ役、つきねこ等で活躍中の声優・森谷里美、通称“さとみん”のソロパーソナリティ番組「森谷里美の完パケラジオ！」。
+
+番組名の通りの“完パケ＝完全パッケージ”、
+かんたんに言うと生放送形式で、
+30分なら30分の収録時間で編集なしで収録していく番組です。
+
+極力手作りでお届けする為に、タイトルコールやジングル、SE、
+CMもすべて、さとみんが自分ひとりでこなしていきます♪
+
+初のメインヒロインでの出演が決定した11月25日発売の
+OVA「眼鏡なカノジョ」（麻生花奈役）についての最新情報はもちろん、
+森谷里美に関するいろーんな最新情報もお伝えしていきます。
+そして、バラエティーに富んだ（？）コーナーにも注目。
+
+リスナーからのご意見はメールでの募集はもちろん、
+Twitterを使用して収録時にリアルタイムにリスナーからの意見も反映させた番組作りをしていきます。
+Twitterでは番組の裏情報や収録の模様、さらにツイキャスでの配信もしたりしますので、番組共々楽しんでくださいね☆
+
+cast: 森谷里美
+
+名字: 終わりのラジオ
+Link: http://hibiki-radio.jp/description/seraph
+回数: 第１２回　８月２１日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/39577bd9f8ad5a2abbf94465235b673fdbc2a872.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/6c0011e2c6ac5296a550c4822c1e5f9997bcba6e.jpg
+ID  : seraph
+Coun: 1684
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150821_seraph_150821_seraph-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/6c0011e2c6ac5296a550c4822c1e5f9997bcba6e.jpg
+description: 鷲崎健さんと梅原裕一郎さんがお届けする「終わりのラジオ」は
+2015年4月から放送開始するTVアニメ「終わりのセラフ」の
+魅力をたっぷりお届けする番組です。
+ゲストさんも続々登場予定ですのでお楽しみに！
+
+パーソナリティ：鷲崎健、　アシスタント：梅原裕一郎
+cast: 鷲崎健 / 梅原裕一郎
+
+名字: 黒子のバスケ　放送委員会
+Link: http://hibiki-radio.jp/description/kurobas
+回数: 第１８１回　９月１９日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/8756a0c3c91718f9b637f85cf3023e6a2157c98a.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c5f0052ae3f16d1ff0b86b3a91da347d95479b33.jpg
+ID  : kurobas
+Coun: 1129
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150919_kurobas_150919_kurobas-TgW9Bjqb-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c5f0052ae3f16d1ff0b86b3a91da347d95479b33.jpg
+description: この番組は2012年4月よりMBS、TOKYO MX、BS11、アニマックス、バンダイチャンネルにて放送され、第３期制作も決定したTVアニメ「黒子のバスケ」を盛り上げていくラジオ番組です！！
+
+cast: 小野 賢章 / 小野友樹
+
+名字: 超えろ！ヴァンガードG
+Link: http://hibiki-radio.jp/description/vang
+回数: 第３８回　９月１９日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/bef40fe0d805dc64a198290c9c9e257f80f5c0af.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/dea47bc9085ed9d0529be99a1398b5246708e632.jpg
+ID  : vang
+Coun: 1674
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150919_van_150919_van-ogW9Bjqb-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/dea47bc9085ed9d0529be99a1398b5246708e632.jpg
+description: テレビ東京ほかにて、絶賛放送中の、
+TVアニメ『カードファイト!! ヴァンガードＧ 』を超越フィーチャーした30分番組です！
+ラジオ大阪と同時に響 - HiBiKi Radio Station -でも
+スタンドアップ！＆ストライドジェネレーション！
+cast: 石井マーク / 榎木淳弥
+
+名字: フューチャーラジオ バディファイト
+Link: http://hibiki-radio.jp/description/buddyfight
+回数: 第７７回　９月１９日更新！
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/top_banner/42f85bc2baf74e7204c98f5ab8769231fef85b76.jpg
+Pict: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/5f06e88524e3f0d53b5063646da071a7e5821c0c.jpg
+ID  : buddyfight
+Coun: 1551
+Pmt1: 1
+Pmt2: 0
+protocol: rtmpe
+domain: cp209391.edgefcs.net
+dir: ondemand
+channel: mp4:150919_buddyfight_150919_buddyfight-ogW9Bjqb-fl.mp4
+thumbnail: http://image.hibiki-radio.jp/uploads/radio_program/flash_image/5f06e88524e3f0d53b5063646da071a7e5821c0c.jpg
+description: 絶賛放送中のTVアニメ『フューチャーカード バディファイト』の
+ラジオ番組がついにスタート！
+
+パーソナリティは
+龍炎寺タスク役の斉藤壮馬さんと大盛爆役の森嶋秀太さんです！
+
+ラジオ大阪OBC [1314kHz]では
+毎週土曜日24時00分～24：30時にて放送！
+cast: 斉藤壮馬 / 森嶋秀太
+

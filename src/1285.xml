@@ -1,0 +1,9 @@
+<data>
+	<protocol>rtmpe</protocol>
+	<domain>cp209391.edgefcs.net</domain>
+	<dir>ondemand</dir>
+	<channel type="main">
+		<flv>mp4:150825_501st_150825_501st-qBsjyIrm-fl.mp4?di=910&si=609&pi=2806&gi=6448&gc=0&bi=34235&bc=501st&ei=1270594&ec=150825_501st&vi=6550691&vc=150825_501st-qBsjyIrm-fl&msi=516&mc=&ni=1625</flv>
+		<thumbnail>http://image.hibiki-radio.jp/uploads/radio_program/flash_image/ea3a467b34cea73f5052abd3d08faf0368268ec6.jpg</thumbnail>
+	</channel>
+</data>

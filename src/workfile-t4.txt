@@ -1,0 +1,747 @@
+名字: 名塚佳織のかもさん學園
+Navi: 名塚佳織
+Pict: /program/kamo/image/35_pgi01_s.jpg
+Link: /program/kamo
+Live: False
+回数: 315
+personality: 名塚佳織
+片假: なづかかおりのかもさんがくえん
+
+名字: 進撃の巨人ラジオ ～梶と下野の進め！電波兵団～
+Navi: 梶裕貴 / 下野紘
+Pict: /program/shingeki/image/36_pgi01_s.jpg
+Link: /program/shingeki
+Live: False
+回数: 65
+personality: 梶裕貴（エレン・イェーガー 役） / 下野紘（コニー・スプリンガー 役）
+片假: しんげきのきょじんらじお～かじとしもののすすめ！でんぱへいだん～
+
+名字: 大原さやか朗読ラジオ　月の音色～radio for your pleasure tomorrow～
+Navi: 大原さやか
+Pict: /program/tsukinone/image/29_pgi01_s.jpg
+Link: /program/tsukinone
+Live: False
+回数: 37
+personality: 大原さやか
+片假: おおはらさやかろうどくらじお　つきのねいろ～らじお ふぉう ゆあ ぷれじゃあ とぅもろう～
+
+名字: TVアニメ「弱虫ペダル」グランロードレディオっショ！
+Navi: 山下大輝 / 森久保祥太郎
+Pict: /program/yp_radio/image/57_pgi01_s.jpg
+Link: /program/yp_radio
+Live: False
+回数: 23
+personality: 山下大輝（小野田坂道 役） / 森久保祥太郎（巻島裕介 役）
+片假: てれびあにめ「よわむしぺだる」ぐらんろーどれでぃおっしょ！
+
+名字: ラジオ「結城友奈は勇者である」勇者部活動報告 春夏秋冬
+Navi: 照井春佳 / 内山夕実 / 黒沢ともよ
+Pict: /program/yuyuyu/image/177_pgi01_s.jpg
+Link: /program/yuyuyu
+Live: True
+回数: 01
+personality: 照井春佳（結城友奈 役） / 内山夕実（犬吠埼風 役） / 黒沢ともよ（犬吠埼樹 役）
+片假: らじおゆうきゆうなはゆうしゃであるゆうしゃぶかつどうほうこく しゅんかしゅうとう
+
+名字: えとたまらじお～ソルラルくれにゃ！～
+Navi: 村川梨衣 / 松井恵理子 / 花守ゆみり
+Pict: /program/soruraru/image/189_pgi01_s.jpg
+Link: /program/soruraru
+Live: False
+回数: 29
+personality: 村川梨衣（にゃ～たん 役） / 松井恵理子（モ～たん 役） / 花守ゆみり（ウリたん 役）
+片假: えとたまらじお～そるらるくれにゃ！～
+
+名字: アルスラーン戦記～ラジオ・ヤシャスィーン！
+Navi: 小林裕介 / 花江夏樹
+Pict: /program/arslan_anime/image/214_pgi01_s.jpg
+Link: /program/arslan_anime
+Live: False
+回数: 18
+personality: 小林裕介（アルスラーン 役） / 花江夏樹（エラム 役）
+片假: あるすらーんせんき～らじお・やしゃすぃーん！
+
+名字: 響け！ユーフォラジオ
+Navi: 黒沢ともよ / 朝井彩加 / 豊田萌絵 / 安済知佳
+Pict: /program/euphonium/image/224_pgi01_s.jpg
+Link: /program/euphonium
+Live: True
+回数: 20
+personality: 黒沢ともよ（黄前久美子 役） / 朝井彩加（加藤葉月 役） / 豊田萌絵（川島緑輝 役） / 安済知佳（高坂麗奈 役）
+片假: ひびけ！ゆーふぉらじお
+
+名字: ラジオ「あんさんぶるスターズ！」～夜闇の魔物に怯える子猫～
+Navi: 増田俊樹 / 羽多野渉 / 小野友樹 / 細貝圭
+Pict: /program/ensemble_stars/image/228_pgi01_s.jpg
+Link: /program/ensemble_stars
+Live: False
+回数: 09
+personality: 増田俊樹（朔間零 役） / 羽多野渉（乙狩アドニス 役） / 小野友樹（大神晃牙 役） / 細貝圭（羽風薫 役）
+片假: らじおあんさんぶるすたーず～やあんのまものにおびえるこねこ～
+
+名字: ストームラバー警報！改！
+Navi: 羽多野渉 / 三浦祥朗
+Pict: /program/storm2/image/239_pgi02_s.jpg
+Link: /program/storm2
+Live: False
+回数: 10
+personality: 羽多野渉（卯都木悠人 役） / 三浦祥朗（巳城タクミ 役）
+片假: すとーむらばーけいほう！かい！
+
+名字: 継うたわれるものらじお
+Navi: 柚木涼香 / 村瀬歩
+Pict: /program/uta/image/240_pgi01_s.jpg
+Link: /program/uta
+Live: False
+回数: 11
+personality: 柚木涼香（エルルゥ 役） / 村瀬歩（キウル 役）
+片假: つぐうたわれるものらじお
+
+名字: オーバーロード～至高のラジオに忠誠の儀を～
+Navi: 加藤英美里 / 内山夕実
+Pict: /program/overlord/image/250_pgi01_s.jpg
+Link: /program/overlord
+Live: False
+回数: 06
+personality: 加藤英美里（アウラ・ベラ・フィオーラ 役） / 内山夕実（マーレ・ベロ・フィオーレ 役）
+片假: おーばーろーど～しこうのらじおにちゅうせいのぎを～
+
+名字: ガッチャマンクラウズＲａｄｉｏ～インサイト～
+Navi: 梅原裕一郎 / 杉田智和
+Pict: /program/gatcha/image/251_pgi01_s.jpg
+Link: /program/gatcha
+Live: False
+回数: 11
+personality: 梅原裕一郎（鈴木理詰夢 役） / 杉田智和（ゲルサドラ 役）
+片假: がっちゃまんくらうずらじお～いんさいと～
+
+名字: TVアニメ「Classroom☆Crisis」WEBラジオ 株式会社小澤亜李
+Navi: 小澤亜李
+Pict: /program/ozawa/image/252_pgi01_s.jpg
+Link: /program/ozawa
+Live: False
+回数: 12
+personality: 小澤亜李（瀬良ミズキ 役）
+片假: てれびあにめ「くらするーむ☆くらいしす」うぇぶらじお かぶしきがいしゃおざわあき
+
+名字: 音mart presents 声優バラエティ ベッドの上からお届けします！
+Navi: 河原木志穂 / 大坪由佳
+Pict: /program/bemasu/image/111_pgi01_s.jpg
+Link: /program/bemasu
+Live: False
+回数: 38
+personality: 河原木志穂 / 大坪由佳
+片假: おとまーと ぷれぜんつ せいゆうばらえてぃ べっどのうえからおとどけします！
+
+名字: 一生ポリケロ
+Navi: あかほりさとる / 水谷優子
+Pict: /program/poli/image/67_pgi01_s.jpg
+Link: /program/poli
+Live: False
+回数: 337
+personality: あかほりさとる / 水谷優子
+片假: いっしょうぽりけろ
+
+名字: ナルウザクスダの！
+Navi: 川本成 / UZA / 楠田敏之
+Pict: /program/glory/image/68_pgi01_s.jpg
+Link: /program/glory
+Live: False
+回数: 294
+personality: 川本成 / UZA / 楠田敏之
+片假: なるうざくすだの！
+
+名字: おとなもおもちゃ
+Navi: 有野晋哉（よゐこ） / 平井善之（アメリカザリガニ）
+Pict: /program/sara_kuru/image/78_pgi01_s.jpg
+Link: /program/sara_kuru
+Live: True
+回数: 
+personality: 有野晋哉（よゐこ） / 平井善之（アメリカザリガニ）
+片假: おとなもおもちゃ
+
+名字: かかずゆみの超輝け！大和魂！！
+Navi: かかずゆみ
+Pict: /program/kakazu/image/95_pgi01_s.jpg
+Link: /program/kakazu
+Live: False
+回数: 612
+personality: かかずゆみ
+片假: かかずゆみのちょうかがやけ！やまとだましい！！
+
+名字: 井ノ上奈々の２～３次元同好会
+Navi: 井ノ上奈々
+Pict: /program/nana/image/75_pgi01_s.jpg
+Link: /program/nana
+Live: False
+回数: 117
+personality: 井ノ上奈々
+片假: いのうえななのにさんじげんどうこうかい
+
+名字: 緒方恵美の晴天ヘキレキ！ マンスリートークライブラジオ
+Navi: 緒方恵美
+Pict: /program/seiheki/image/138_pgi01_s.jpg
+Link: /program/seiheki
+Live: True
+回数: 
+personality: 緒方恵美
+片假: おがためぐみのせいてんへきれき！まんすりーとーくらいぶらじお
+
+名字: ダイヤのＡ ～ネット甲子園～
+Navi: 松岡禎丞 / 蒼井翔太 / 逢坂良太 / 島﨑信長 / 櫻井孝宏 / 花江夏樹 / 浪川大輔 / 下野紘
+Pict: /program/diaace/image/96_pgi05_s.jpg
+Link: /program/diaace
+Live: False
+回数: 90
+personality: 松岡禎丞（金丸信二 役） / 蒼井翔太（東条秀明 役） / 逢坂良太（沢村栄純 役） / 島﨑信長（降谷暁 役） / 櫻井孝宏（御幸一也 役） / 花江夏樹（小湊春市 役） / 浪川大輔（滝川クリス優 役） / 下野紘（川上憲史 役）
+片假: だいやのえーす　~ねっとこうしえん~
+
+名字: あずべあ!!
+Navi: 荻原秀樹 / Ayumi.
+Pict: /program/azbear/image/99_pgi01_s.jpg
+Link: /program/azbear
+Live: False
+回数: 76
+personality: 荻原秀樹 / Ayumi.
+片假: あずべあ!!
+
+名字: NECパーソナルコンピュータプレゼンツ デジタル生活応援！121ラジオ
+Navi: 新谷良子 / 大橋彩香
+Pict: /program/121/image/178_pgi01_s.jpg
+Link: /program/121
+Live: False
+回数: 09
+personality: 新谷良子 / 大橋彩香
+片假: えぬいーしーぱーそなるこんぴゅーたぷれぜんつでじたるせいかうおうえん！121らじお
+
+名字: Goes!～六陽魔法高校2年C組へようこそ～
+Navi: 斎賀みつき / 皆川純子
+Pict: /program/goes/image/226_pgi03_s.jpg
+Link: /program/goes
+Live: False
+回数: 06
+personality: 斎賀みつき（カイ・ジョリス・佐倉 役） / 皆川純子（日向・エリ・ファース 役）
+片假: ごーず!
+
+名字: のんのんびよりうぇぶらじお　のんのんだより りぴーと！なのん
+Navi: 村川梨衣 / 佐倉綾音 / ？？？
+Pict: /program/nono/image/247_pgi01_s.jpg
+Link: /program/nono
+Live: False
+回数: 12
+personality: 村川梨衣（一条蛍 役） / 佐倉綾音（越谷夏海 役） / ？？？（越谷卓 役）
+片假: のんのんびよりうぇぶらじお　のんのんだより りぴーと！なのん
+
+名字: Charlotteラジオ ～友利奈緒の生徒会活動日誌～
+Navi: 佐倉綾音
+Pict: /program/charlotte/image/255_pgi01_s.jpg
+Link: /program/charlotte
+Live: True
+回数: 12
+personality: 佐倉綾音（友利奈緒 役）
+片假: しゃーろっとらじお　～ゆりなおのせいとかいかつどうにっし～
+
+名字: バトルガール ハイスクール なでラジ
+Navi: 洲崎綾
+Pict: /program/naderadi/image/254_pgi02_s.jpg
+Link: /program/naderadi
+Live: False
+回数: 13
+personality: 洲崎綾（星月みき 役）
+片假: ばとるがーる　はいすくーる　なでらじ
+
+名字: うたわれるものらじお
+Navi: 小山力也 / 柚木涼香
+Pict: /program/uta3/image/259_pgi01_s.jpg
+Link: /program/uta3
+Live: False
+回数: 12
+personality: 小山力也（ハクオロ 役） / 柚木涼香（エルルゥ 役）
+片假: うたわれるものらじお
+
+名字: 檜山修之のあにめじ湯
+Navi: 檜山修之
+Pict: /program/anime/image/61_pgi01_s.jpg
+Link: /program/anime
+Live: False
+回数: 136
+personality: 檜山修之
+片假: ひやまのぶゆきのあにめじゆ
+
+名字: 酒井・今井のRADIO N WING
+Navi: 酒井広大 / 今井麻美
+Pict: /program/nwing/image/62_pgi03_s.jpg
+Link: /program/nwing
+Live: False
+回数: 75
+personality: 酒井広大 / 今井麻美
+片假: さかいいまいのらじおにゅーうぃんぐ
+
+名字: Fate/kaleid liner　イリヤと美遊のプリズマ☆ナイト　ツヴァイ ヘルツ！
+Navi: 門脇舞以 / 名塚佳織 / 幸田夢波
+Pict: /program/priya2/image/77_pgi01_s.jpg
+Link: /program/priya2
+Live: False
+回数: 08
+personality: 門脇舞以（イリヤスフィール・フォン・アインツベルン 役） / 名塚佳織（美遊・エーデルフェルト 役） / 幸田夢波（ツヴァイ ヘルツ！ED曲「ハプニング☆ダイアリー」担当）
+片假: ふぇいとかれいどらいなーいりやとみゆのぷりずまないとつゔぁいへるつ！
+
+名字: アイドルクロニクル　～ちゃけずにラジオがんばります～
+Navi: M・A・O / 五十嵐裕美 / 遠藤ゆりか
+Pict: /program/i96/image/220_pgi01_s.jpg
+Link: /program/i96
+Live: False
+回数: 13
+personality: M・A・O（里見陽奈 役） / 五十嵐裕美（松平ユリア 役） / 遠藤ゆりか（京極瑠璃 役）
+片假: あいどるくろにくる　～ちゃけずにらじおがんばります～
+
+名字: 橋本ちなみのガチなみ学園！
+Navi: 橋本ちなみ
+Pict: /program/gachi/image/194_pgi01_s.jpg
+Link: /program/gachi
+Live: True
+回数: 
+personality: 橋本ちなみ
+片假: はしもとちなみのがちなみがくえん！
+
+名字: スタミュラジオ～目指せ！ラジオスター～
+Navi: ランズベリー・アーサー
+Pict: /program/hstar-mu/image/261_pgi01_s.jpg
+Link: /program/hstar-mu
+Live: False
+回数: 03
+personality: ランズベリー・アーサー（月皇海斗 役）
+片假: すたみゅらじお～めざせ！らじおすたー～
+
+名字: コンクリート・レボ“レディオ”
+Navi: 上坂すみれ / 中村繪里子
+Pict: /program/conrevo/image/263_pgi01_s.jpg
+Link: /program/conrevo
+Live: False
+回数: 
+personality: 上坂すみれ（星野輝子 役） / 中村繪里子（風郎太 役）
+片假: こんくりーと・れぼレディオ
+
+名字: Radio「緋弾のアリアAyane Ai」
+Navi: 佐倉綾音 / 茅野愛衣
+Pict: /program/ariaaa/image/269_pgi01_s.jpg
+Link: /program/ariaaa
+Live: False
+回数: 00
+personality: 佐倉綾音（間宮あかり 役） / 茅野愛衣（佐々木志乃 役）
+片假: らじお「ひだんのありああやね あい」
+
+名字: ご注文はラジオですか？？～ラビットハウスへようこそ～
+Navi: 水瀬いのり / 種田梨沙
+Pict: /program/gochiusa/image/34_pgi03_s.jpg
+Link: /program/gochiusa
+Live: False
+回数: 
+personality: 水瀬いのり（チノ 役） / 種田梨沙（リゼ 役）
+片假: ごちゅうもんはらじおですか
+
+名字: 俺がお嬢様学校に「庶民サンプル」としてゲッツされたラジオ
+Navi: 芹澤優 / 立花理香
+Pict: /program/syomin/image/272_pgi01_s.jpg
+Link: /program/syomin
+Live: False
+回数: 
+personality: 芹澤優（天空橋愛佳 役） / 立花理香（有栖川麗子 役）
+片假: おれがおじょうさまがっこうに「しょみんさんぷる」としてげっつされたらじお
+
+名字: 霜月はるかのFrost Moon Cafe+
+Navi: 霜月はるか
+Pict: /program/fmc2/image/73_pgi01_s.jpg
+Link: /program/fmc2
+Live: False
+回数: 372
+personality: 霜月はるか
+片假: しもつきはるかのふぉろすとむーんかふぇ
+
+名字: ラブライブ！ μ's広報部 ～にこりんぱな～
+Navi: 徳井青空 / 飯田里穂 / 久保ユリカ
+Pict: /program/lovelive2/image/74_pgi02_s.jpg
+Link: /program/lovelive2
+Live: False
+回数: 85
+personality: 徳井青空（矢澤にこ 役） / 飯田里穂（星空凛 役） / 久保ユリカ（小泉花陽 役）
+片假: らぶらいぶみゅーずこうほうぶ~にこりんぱな~
+
+名字: SCRUM Radio～らむらじ～
+Navi: 荻原秀樹 / 小暮英麻
+Pict: /program/rumra/image/76_pgi01_s.jpg
+Link: /program/rumra
+Live: False
+回数: 164
+personality: 荻原秀樹 / 小暮英麻
+片假: すくらむらじお～らむらじ～
+
+名字: XRADIOS
+Navi: bamboo / 上田朱音
+Pict: /program/dmm/image/211_pgi04_s.jpg
+Link: /program/dmm
+Live: False
+回数: 38
+personality: bamboo（milktub Vo） / 上田朱音
+片假: えっくすらじおず
+
+名字: ほめられてのびるらじおZ
+Navi: 風音 / 荻原秀樹
+Pict: /program/home/image/79_pgi01_s.jpg
+Link: /program/home
+Live: False
+回数: 438
+personality: 風音（のびるちゃん） / 荻原秀樹（Pタン）
+片假: ほめられてのびるらじおぜっと
+
+名字: モンハンラジオ モンハン部放送局2nd
+Navi: 日笠陽子 / モテヤマ編集長 / 佳村はるか / 高宗歩未 / 三田寺理紗 / 岡田紗佳
+Pict: /program/mhr2/image/80_pgi01_s.jpg
+Link: /program/mhr2
+Live: False
+回数: 72
+personality: 日笠陽子 / モテヤマ編集長 / 佳村はるか（マネージャー） / 高宗歩未（マネージャー） / 三田寺理紗（マネージャー） / 岡田紗佳（マネージャー）
+片假: もんはんらじおもんはんぶほうそうきょくせかんど
+
+名字: モンハンラジオ 良三の部屋
+Navi: 辻本良三プロデューサー / 宇佐美友紀
+Pict: /program/mhr3/image/81_pgi01_s.jpg
+Link: /program/mhr3
+Live: False
+回数: 39
+personality: 辻本良三プロデューサー（パーソナリティ） / 宇佐美友紀（アシスタント）
+片假: もんはんらじおりょうぞうのへや
+
+名字: 魁☆早稲田丸!! ～あずりすぎてよかですか？～
+Navi: 中本順久 / 小野涼子 / 大久保藍子
+Pict: /program/sakigake/image/87_pgi01_s.jpg
+Link: /program/sakigake
+Live: False
+回数: 76
+personality: 中本順久 / 小野涼子 / 大久保藍子
+片假: さきがけわせだまる!! ～あずりすぎてよかですか？～
+
+名字: selector radio WIXOSS -Booster Pack-
+Navi: 加隈亜衣 / 久野美咲 / 久野ポン
+Pict: /program/selector/image/124_pgi03_s.jpg
+Link: /program/selector
+Live: False
+回数: 55
+personality: 加隈亜衣（小湊るう子 役） / 久野美咲（タマ 役） / 久野ポン
+片假: せれくたー　らじお　ウィクロス
+
+名字: 蒼きラジオのアルペジオ改
+Navi: 渕上舞 / 沼倉愛美 / 山村響
+Pict: /program/trident/image/161_pgi01_s.jpg
+Link: /program/trident
+Live: False
+回数: 31
+personality: 渕上舞（イオナ 役） / 沼倉愛美（タカオ 役） / 山村響（ハルナ 役）
+片假: あおきらじおのあるぺじおかい
+
+名字: 放課後のプレアデスRADIO
+Navi: 高森奈津美
+Pict: /program/pleiades/image/217_pgi02_s.jpg
+Link: /program/pleiades
+Live: False
+回数: 23
+personality: 高森奈津美（すばる 役）
+片假: ほうかごのぷれあですらじお
+
+名字: サヴァイヴァー･ドージョー フロムラジオステイシヨン
+Navi: 関俊彦
+Pict: /program/ninja/image/223_pgi02_s.jpg
+Link: /program/ninja
+Live: False
+回数: 12
+personality: 関俊彦（フォレスト・サワタリ 役）
+片假: さばいばー・どーじょー ふろむらじおすていしいよん
+
+名字: 監獄ラジオ学園
+Navi: 小西克幸 / 興津和幸
+Pict: /program/prison/image/256_pgi01_s.jpg
+Link: /program/prison
+Live: False
+回数: 06
+personality: 小西克幸（ガクト 役） / 興津和幸（アンドレ 役）
+片假: ぷりずんらじおすくーる
+
+名字: ランス・アンド・マスクス ～RADIO騎士団～
+Navi: 山下大輝 / 小澤亜李
+Pict: /program/lance/image/268_pgi01_s.jpg
+Link: /program/lance
+Live: True
+回数: 
+personality: 山下大輝（花房葉太郎 役） / 小澤亜李（鬼堂院真緒 役）
+片假: らんす・あんど・ますくす ～らじおきしだん～
+
+名字: 501st JFW.OA～第五○一統合戦闘航空団公式放送～
+Navi: 大橋歩夕 / 高森奈津美
+Pict: /program/501st/image/102_pgi01_s.jpg
+Link: /program/501st
+Live: False
+回数: 109
+personality: 大橋歩夕（エイラ・イルマタル・ユーティライネン 役） / 高森奈津美（ニッカ・エドワーディン・カタヤイネン 役）
+片假: ストライクウィッチーズ
+
+名字: ラジオ　戦姫インペリアル from 英雄＊戦姫
+Navi: 小倉結衣 / 楠浩子
+Pict: /program/aiming2/image/231_pgi01_s.jpg
+Link: /program/aiming2
+Live: False
+回数: 03
+personality: 小倉結衣（ヒミコ 役） / 楠浩子（マクシミリアン 役）
+片假: らじお　せんきいんぺりある ふろむ えいゆう＊せんき
+
+名字: 佐藤ひろ美のひろらじ
+Navi: 佐藤ひろ美
+Pict: /program/hiroradi/image/90_pgi01_s.jpg
+Link: /program/hiroradi
+Live: False
+回数: 130
+personality: 佐藤ひろ美
+片假: さとうひろみのひろらじ
+
+名字: 軽茶しんどろ～む
+Navi: 一条和矢 / ひと美
+Pict: /program/karucha/image/92_pgi01_s.jpg
+Link: /program/karucha
+Live: False
+回数: 115
+personality: 一条和矢 / ひと美
+片假: かるちゃしんどろ~む
+
+名字: あるらじ！そよぎと六花の Radio de ALcot！
+Navi: 遠野そよぎ / 北見六花 / 宮蔵
+Pict: /program/radio_alcot/image/94_pgi03_s.jpg
+Link: /program/radio_alcot
+Live: False
+回数: 54
+personality: 遠野そよぎ / 北見六花 / 宮蔵
+片假: あるらじ！そよぎとりっかのらじおであるこっと！
+
+名字: 新谷良子のただのラジオ
+Navi: 新谷良子 / 清水茉菜 / 高畑空良 / 奈良岡快
+Pict: /program/tadaradio/image/215_pgi01_s.jpg
+Link: /program/tadaradio
+Live: False
+回数: 15
+personality: 新谷良子 / 清水茉菜 / 高畑空良 / 奈良岡快
+片假: しんたにりょうこのただのらじお
+
+名字: 帰ってきた！ ささら、まーりゃんの生徒会会長ラジオ for ToHeart2
+Navi: 小暮英麻 / 小野涼子
+Pict: /program/hmx3/image/42_pgi01_s.jpg
+Link: /program/hmx3
+Live: False
+回数: 32
+personality: 小暮英麻（まーりゃん 役） / 小野涼子（久寿川ささら 役）
+片假: かえってきた！ささら、まーりゃんのせいとかいかいちょうらじおふぉーとぅーはーとつー
+
+名字: Lump of Sugar放送部
+Navi: なかせひな  / ひろりん  / おおしたこうた
+Pict: /program/lump/image/43_pgi01_s.jpg
+Link: /program/lump
+Live: False
+回数: 170
+personality: なかせひな  / ひろりん  / おおしたこうた
+片假: らんぷおぶほうそうぶ
+
+名字: 花とゆめ　男子会!?らじお
+Navi: 下野紘 / 島﨑信長
+Pict: /program/hanayume/image/98_pgi01_s.jpg
+Link: /program/hanayume
+Live: False
+回数: 77
+personality: 下野紘 / 島﨑信長
+片假: はなとゆめ　だんしかい!?らじお
+
+名字: オトメイトパラダイス
+Navi: 鳥海浩輔 / 日野聡
+Pict: /program/otome4/image/103_pgi01_s.jpg
+Link: /program/otome4
+Live: False
+回数: 68
+personality: 鳥海浩輔 / 日野聡
+片假: おとめいとぱらだいす
+
+名字: ばんちゃ！見ホーダイ！
+Navi: 鳥海浩輔 / やまけん / 山本希望
+Pict: /program/bancha/image/105_pgi01_s.jpg
+Link: /program/bancha
+Live: False
+回数: 34
+personality: 鳥海浩輔 / やまけん / 山本希望
+片假: ばんちゃ！みほーだい！
+
+名字: ラジオ シドニアの騎士～綾と綾音の秘密の光合成～
+Navi: 洲崎綾 / 佐倉綾音
+Pict: /program/sidonia/image/109_pgi01_s.jpg
+Link: /program/sidonia
+Live: False
+回数: 52
+personality: 洲崎綾（星白閑 役） / 佐倉綾音（岐神海蘊 役）
+片假: らじお しどにあのきし～あやとあやねのひみつのこうごうせい～
+
+名字: ぽにきゃん ぜん部！
+Navi: 新田ひより / 花守ゆみり / 近藤玲奈 / 高橋朋伽
+Pict: /program/zenbu/image/110_pgi01_s.jpg
+Link: /program/zenbu
+Live: True
+回数: 34
+personality: 新田ひより / 花守ゆみり / 近藤玲奈 / 高橋朋伽
+片假: ぽにきゃん ぜんぶ！
+
+名字: ジョジョの奇妙な冒険　スターダストクルセイダース　オラオラジオ！
+Navi: 小野大輔
+Pict: /program/jojo/image/129_pgi01_s.jpg
+Link: /program/jojo
+Live: False
+回数: 32
+personality: 小野大輔（空条承太郎 役）
+片假: じょじょのきみょうなぼうけん　すたーだすとくるせいだーす　おらおらじお！
+
+名字: 南條愛乃・エオルゼアより愛をこめて
+Navi: 南條愛乃
+Pict: /program/ff/image/184_pgi01_s.jpg
+Link: /program/ff
+Live: False
+回数: 46
+personality: 南條愛乃
+片假: なんじょうよしのえおるぜあよりあいをこめて
+
+名字: 終わりのラジオ
+Navi: 鷲崎健 / 梅原裕一郎
+Pict: /program/seraph/image/213_pgi01_s.jpg
+Link: /program/seraph
+Live: False
+回数: 12
+personality: 鷲崎健（パーソナリティ） / 梅原裕一郎（アシスタント）
+片假: おわりのらじお
+
+名字: 食戟のソーマ ～種田高橋料理學園～
+Navi: 種田梨沙 / 高橋未奈美
+Pict: /program/shokugeki/image/227_pgi01_s.jpg
+Link: /program/shokugeki
+Live: False
+回数: 06
+personality: 種田梨沙（薙切えりな 役） / 高橋未奈美（田所恵 役）
+片假: しょくげきのそーま ～たねだたかはしりょうりがくえん～
+
+名字: 食戟のソーマ ～お食事処 まつおか～
+Navi: 松岡禎丞
+Pict: /program/shokugeki2/image/229_pgi01_s.jpg
+Link: /program/shokugeki2
+Live: False
+回数: 06
+personality: 松岡禎丞（幸平創真 役）
+片假: しょくげきのそーま ～おしょくじどころ まつおか～
+
+名字: モンスター娘たちのいる日常会話
+Navi: 雨宮天 / 小澤亜李 / 相川奈都姫 / 野村真悠華 / 山崎はるか / 中村桜
+Pict: /program/monmusu/image/244_pgi01_s.jpg
+Link: /program/monmusu
+Live: False
+回数: 12
+personality: 雨宮天（ミーア 役） / 小澤亜李（パピ 役） / 相川奈都姫（セントレア 役） / 野村真悠華（スー 役） / 山崎はるか（メロ 役） / 中村桜（ラクネラ 役）
+片假: もんすたーむすめたちのいるにちじょうかいわ
+
+名字: ラジオ コープスパーティー ｓｅａｓｏｎ５
+Navi: 今井麻美 / 佐藤利奈
+Pict: /program/corpse/image/41_pgi02_s.jpg
+Link: /program/corpse
+Live: False
+回数: 04
+personality: 今井麻美（篠崎あゆみ 役） / 佐藤利奈（中嶋直美 役）
+片假: らじお こーぷすぱーてぃー じーずん5
+
+名字: レンカとヒバリとリッカのフェンリル広報部
+Navi: 木島隆一 / 伊藤かな恵 / 小見川千明
+Pict: /program/godeater/image/246_pgi01_s.jpg
+Link: /program/godeater
+Live: False
+回数: 14
+personality: 木島隆一（空木レンカ 役） / 伊藤かな恵（竹田ヒバリ 役） / 小見川千明（楠リッカ 役）
+片假: れんかとひばりとりっかのふぇんりるこうほうぶ
+
+名字: TVアニメ「がっこうぐらし！」こちらGSH　学園・生活部・放送局
+Navi: 水瀬いのり / 小澤亜李
+Pict: /program/gg/image/253_pgi01_s.jpg
+Link: /program/gg
+Live: False
+回数: 12
+personality: 水瀬いのり（丈槍由紀 役） / 小澤亜李（恵飛須沢胡桃 役）
+片假: てれびあにめ「がっこうぐらし！」こちらじーえすえいち　がくえん・せいかつぶ・ほうそうきょく
+
+名字: 石上静香と東山奈央の英雄譚ＲＡＤＩＯ
+Navi: 石上静香 / 東山奈央
+Pict: /program/rakudai/image/270_pgi01_s.jpg
+Link: /program/rakudai
+Live: False
+回数: 
+personality: 石上静香（ステラ・ヴァーミリオン 役） / 東山奈央（黒鉄珠雫 役）
+片假: いしがみしずかととうやまなおのきゃばるりぃらじお
+
+名字: 学戦都市アスタリスク～電波星武祭～
+Navi: 加隈亜衣
+Pict: /program/asterisk-war/image/273_pgi01_s.jpg
+Link: /program/asterisk-war
+Live: False
+回数: 
+personality: 加隈亜衣（ユリス＝アレクシア・フォン・リースフェルト 役）
+片假: がくせんとしあすたりすく～でんぱふぇすた～
+
+名字: ヘタリアWEBラジオ ～ヘタリラ The World Twinkle～
+Navi: 井上剛 / 笹沼尭羅
+Pict: /program/hetalira/image/257_pgi01_s.jpg
+Link: /program/hetalira
+Live: False
+回数: 06
+personality: 井上剛（スペイン 役） / 笹沼尭羅（オーストリア 役）
+片假: へたりあうぇぶらじおへたりらざわーるどとぅいんくる
+
+名字: ゆりゆららららゆるゆり放送室
+Navi: 三上枝織 / 大坪由佳 / 津田美波 / 大久保瑠美
+Pict: /program/yryr/image/114_pgi01_s.jpg
+Link: /program/yryr
+Live: False
+回数: 221
+personality: 三上枝織（赤座あかり） / 大坪由佳（歳納京子 役） / 津田美波（船見結衣 役） / 大久保瑠美（吉川ちなつ 役）
+片假: ゆりゆららららゆるゆりほうそうしつ
+
+名字: くりぎむ！！～クリームソーダとギムレット～
+Navi: 石田彰 / 氷上恭子
+Pict: /program/kurigimu/image/185_pgi01_s.jpg
+Link: /program/kurigimu
+Live: False
+回数: 23
+personality: 石田彰 / 氷上恭子
+片假: くりぎむ！！～くりーむそーだとぎむれっと～
+
+名字: 第2回 輝け！オールスターゲーム声優大集合スペシャル ～東西対抗！！天下ワレメの大合戦！！～
+Navi: 風音 / 荻原秀樹 / なかせひな  / おおしたこうた / 桃井穂美 / 平野響子 / 桃井いちご / 秋野花 / 遠野そよぎ / 北見六花 / 桜川未央 / 白月かなめ / ＜MC＞夏峰いろは
+Pict: /program/pcgame/image/112_pgi01_s.jpg
+Link: /program/pcgame
+Live: False
+回数: 01
+personality: 風音（ほめらじれてのびるらじおＺ） / 荻原秀樹（ほめらじれてのびるらじおＺ） / なかせひな （Lump of Sugar 放送部） / おおしたこうた（Lump of Sugar 放送部） / 桃井穂美（AXLラジオ「あやかしコントラクト」宝泉守町放送局！） / 平野響子（AXLラジオ「あやかしコントラクト」宝泉守町放送局！） / 桃井いちご（PCゲーム「鯨神のティアスティラ」） / 秋野花（PCゲーム「鯨神のティアスティラ」） / 遠野そよぎ（あるらじ！そよぎと六花の Radio de ALcot！） / 北見六花（あるらじ！そよぎと六花の Radio de ALcot！） / 桜川未央（PCゲーム「真・恋姫†英雄譚」） / 白月かなめ（PCゲーム「真・恋姫†英雄譚」） / ＜MC＞夏峰いろは（恋がさくころ桜どき　さくらじ）
+片假: だいにかい　かがやけ！おーるすたーげーむせいゆうだいしゅうごうすぺしゃる～とうざいたいけつ！！てんかわれめのだいがっせん！！～
+
+名字: ガールズ＆パンツァーRADIO　ウサギさんチーム、訓練中！
+Navi: ウサギさんチーム選抜部隊
+Pict: /program/usagi/image/210_pgi01_s.jpg
+Link: /program/usagi
+Live: False
+回数: 23
+personality: ウサギさんチーム選抜部隊
+片假: がーるず＆ぱんつぁーらじお　うさぎさんちーむ、くんれんちゅう！
+
+名字: 戦魂ラジオ～織田の陣～
+Navi: 大塚明夫 / 黒田崇矢 / 花江夏樹
+Pict: /program/sen-tama/image/260_pgi01_s.jpg
+Link: /program/sen-tama
+Live: False
+回数: 01
+personality: 大塚明夫（織田信長 役） / 黒田崇矢（柴田勝家 役） / 花江夏樹（森蘭丸 役）
+片假: せんたまらじお～おだのじん～
+

@@ -1,0 +1,51 @@
+<div>
+ <div id="hbkTabsTop6">
+ </div>
+ <div id="hbkTabsTopBg6">
+ </div>
+ <div id="hbkTabsMain6">
+  <div style="clear:both;">
+  </div>
+  <div class="hbkProgram">
+   <a href="http://hibiki-radio.jp/#top" onclick="AttachVideo('kurobas','1129','1','0')">
+    <img border="0" class="hbkProgramBanner" src="http://image.hibiki-radio.jp/uploads/radio_program/top_banner/8756a0c3c91718f9b637f85cf3023e6a2157c98a.jpg"/>
+    <div class="hbkProgramButton">
+     黒子のバスケ
+     <br/>
+     放送委員会
+    </div>
+    <div class="hbkProgramComment">
+     第１８１回　９月１９日更新！
+    </div>
+   </a>
+  </div>
+  <div class="hbkProgram">
+   <a href="http://hibiki-radio.jp/#top" onclick="AttachVideo('vang','1674','1','0')">
+    <img border="0" class="hbkProgramBanner" src="http://image.hibiki-radio.jp/uploads/radio_program/top_banner/bef40fe0d805dc64a198290c9c9e257f80f5c0af.jpg"/>
+    <div class="hbkProgramButton">
+     超えろ！ヴァンガードG
+    </div>
+    <div class="hbkProgramComment">
+     第３８回　９月１９日更新！
+    </div>
+   </a>
+  </div>
+  <div class="hbkProgram">
+   <a href="http://hibiki-radio.jp/#top" onclick="AttachVideo('buddyfight','1551','1','0')">
+    <img border="0" class="hbkProgramBanner" src="http://image.hibiki-radio.jp/uploads/radio_program/top_banner/42f85bc2baf74e7204c98f5ab8769231fef85b76.jpg"/>
+    <div class="hbkProgramButton">
+     フューチャーラジオ
+     <br/>
+     バディファイト
+    </div>
+    <div class="hbkProgramComment">
+     第７７回　９月１９日更新！
+    </div>
+   </a>
+  </div>
+  <div style="clear:both;">
+  </div>
+ </div>
+ <div id="hbkTabsBottom6">
+ </div>
+</div>

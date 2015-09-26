@@ -1,0 +1,9 @@
+<data>
+  <protocol>rtmpe</protocol>
+  <domain>cp209391.edgefcs.net</domain>
+  <dir>ondemand</dir>
+  <channel type="main">
+    <flv>mp4:150826_lovelive_ms_150826_lovelive_ms-8lyQYV7t-fl.mp4?di=910&si=609&pi=2806&gi=6494&gc=3&bi=34236&bc=lovelive_ms&ei=1270655&ec=150826_lovelive_ms&vi=6579489&vc=150826_lovelive_ms-8lyQYV7t-fl&msi=516&mc=&ni=1625</flv>
+    <thumbnail>http://image.hibiki-radio.jp/uploads/radio_program/flash_image/c7562a9a9a67e099402d472585bcdc5068da0d24.jpg</thumbnail>
+  </channel>
+</data>
